@@ -1,3 +1,6 @@
 추적이 되는지 봅시다!
+<<<<<<< HEAD
 awesome-feature
+=======
+>>>>>>> a4529faf362f1f968569c4127e4cd6834318e8d2
 new feature
